@@ -13,5 +13,5 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello gfdhdffggdf!" />
+        android:text="Hello mahendra!" />
 </RelativeLayout>
